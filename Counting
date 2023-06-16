@@ -1,0 +1,7 @@
+ function count(sheeps){
+                        let counts="";
+                            counts += `${i}sheep....`;}
+                        return counts;
+                        
+                        }
+                    console.log(count(4));
